@@ -11,6 +11,7 @@ I am Wawan Setiawan, people call me Wawan or Wan, I am a tech enthusiast and cur
 ## I am have knowledge in:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![SCSS](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
@@ -22,7 +23,6 @@ I am Wawan Setiawan, people call me Wawan or Wan, I am a tech enthusiast and cur
 
 
 ## I am currently learning in:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
 
