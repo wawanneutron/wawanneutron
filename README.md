@@ -4,7 +4,7 @@
 
 I am Wawan Setiawan, people call me Wawan or Wan, I am a tech enthusiast and currently final year in major information system Student at [STMIK Insan Pembangunan](https://stmik.ipem.ac.id/). I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Wawan Setiawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idadilhams/)](https://www.linkedin.com/in/wawan-setiawan-84934a206/)
+[![Linkedin Badge](https://img.shields.io/badge/-WawanSetiawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/idadilhams/)](https://www.linkedin.com/in/wawan-setiawan-84934a206/)
 [![Instagram Badge](https://img.shields.io/badge/-@wawanneutron-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wawanneutron/)](https://www.instagram.com/wawanneutron/)
 [![Gmail Badge](https://img.shields.io/badge/-hellowawansetiawan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellowawansetiawan@gmail.com)](mailto:hellowawansetiawan@gmail.com)
 
