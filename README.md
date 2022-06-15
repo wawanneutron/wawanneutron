@@ -2,7 +2,7 @@
 
 > To Invinity and Beyond:rocket: - **Buzz Lightyear**
 
-I am Wawan Setiawan, people call me Wawan or Wan, I am a tech enthusiast and currently final year in major information system Student at [STMIK Insan Pembangunan](https://stmik.ipem.ac.id/). I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+Hello, my name is Wawan Setiawan and I'm a junior Web Developer, bachelor's degree majoring in Information Systems at [STMIK Insan Pembangunan](https://stmik.ipem.ac.id/). I'm a fresh graduate, but I already have freelance web development experience.
 
 [![Linkedin Badge](https://img.shields.io/badge/-WawanSetiawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/wawan-setiawan-84934a206)](https://www.linkedin.com/in/wawan-setiawan-84934a206/)
 [![Instagram Badge](https://img.shields.io/badge/-@wawanneutron-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wawanneutron/)](https://www.instagram.com/wawanneutron/)
