@@ -2,7 +2,7 @@
 
 > To Invinity and Beyond:rocket: - **Buzz Lightyear**
 
-Hello, my name is Wawan Setiawan and I'm a junior Web Developer, bachelor's degree majoring in Information Systems at [STMIK Insan Pembangunan](https://stmik.ipem.ac.id/). I'm a fresh graduate, but I already have freelance web development experience.
+Hello, my name is Wawan Setiawan and I'm a junior Web Developer, bachelor's degree majoring in Information Systems at [Universitas Insan Pembangunan Indonesia](https://stmik.ipem.ac.id/). I'm a fresh graduate, but I already have freelance web development experience.
 
 
 ## I am have knowledge in:
