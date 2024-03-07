@@ -2,7 +2,30 @@
 
 > To Invinity and Beyond:rocket: - **Buzz Lightyear**
 
-Hello, my name is Wawan Setiawan and I'm a junior Web Developer, bachelor's degree majoring in Information Systems at [Universitas Insan Pembangunan Indonesia](https://stmik.ipem.ac.id/). I'm a fresh graduate, but I already have freelance web development experience.
+👋 Hello there! I'm Wawan Setiawan, a passionate Frontend Developer with a knack for creating intuitive and visually appealing user interfaces. 💻
+
+🚀 As a detail-oriented professional, I thrive on turning complex designs and ideas into seamless, responsive, and engaging web experiences. My expertise lies in HTML, CSS, and JavaScript, and I'm well-versed in modern frontend frameworks such as React and Vue.js.
+And also I have experience as a Fullstack Developer freelancer, building internal company websites such as company profiles, website landing pages, and also
+fixing company website bugs and adding features to it.
+
+🎨 I have a keen eye for design and a commitment to delivering pixel-perfect, cross-browser-compatible applications. I am constantly staying updated on the latest industry trends and best practices to ensure the highest quality of code and user experience.
+
+💡 Problem-solving is my forte, and I enjoy collaborating with cross-functional teams to brainstorm and implement innovative solutions. I understand the importance of performance optimization and strive to create applications that not only look great but also deliver exceptional speed and usability.
+
+🛠️ Here are some of my key skills:
+HTML5, CSS3, JavaScript
+Vue.js, Nuxt.js, React.js
+State Management with Vuex
+Vuetify, Bootstrap, Tailwind
+Responsive Web Design
+UI/UX Design Principles
+Git Version Control
+Web Performance Optimization
+
+🤝 I am always open to new challenges and eager to contribute my skills to projects that push the boundaries of frontend development. Let's build something amazing together!
+
+📬 Feel free to reach out if you're looking for a dedicated Frontend Developer who is passionate about creating elegant and functional user interfaces. I'm ready to bring your ideas to life!
+
 
 
 ## I am have knowledge in:
@@ -18,12 +41,6 @@ Hello, my name is Wawan Setiawan and I'm a junior Web Developer, bachelor's degr
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-## I am currently learning in:
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wawanneutron&count_private=true&show_icons=true&include_all_commits=true)
 
 <!--
 **wawanneutron/wawanneutron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
