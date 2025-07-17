@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with a strong focus on building efficient,
 
 ### 🧰 Tech Stack
 - **Backend:** PHP, Laravel, REST API  
-- **Frontend:** JavaScript, TypeScript, React.js, Vue.js, Nuxt.js, Next.js, Tailwind CSS, Bootstrap  
+- **Frontend:** JavaScript, TypeScript, React.js, Vue.js, Nuxt.js, Next.js, Tailwind CSS, Vuetify, Bootstrap  
 - **Database:** MySQL, PostgreSQL  
 - **Tools:** Git, Vite, Webpack, Postman, Docker (basic)  
 - **Others:** CI/CD, Testing E2E
