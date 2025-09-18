@@ -23,7 +23,9 @@ I'm a passionate Full Stack Developer with a strong focus on building efficient,
 
 ---
 
-![Wawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wawanneutron&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wawanneutron&layout=compact&theme=radical)
+## 🚀 GitHub Stats
+![Wawan's GitHub Stats](https://github-readme-stats-wawan.vercel.app/api?username=wawanneutron&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats-wawan.vercel.app/api/top-langs/?username=wawanneutron&layout=compact&theme=radical)
+
