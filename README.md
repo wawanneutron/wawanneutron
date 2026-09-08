@@ -6,14 +6,26 @@ I'm a Full Stack Developer with 4+ years of experience building scalable, mainta
 
 ### 🧰 Tech Stack
 
-- **Languages:** TypeScript, JavaScript (ES6+), PHP, Golang
-- **Backend:** Laravel, Node.js, Express.js, REST API
-- **Frontend:** Vue.js, Nuxt.js, React.js, Next.js, Tailwind CSS, Vuetify, Bootstrap
-- **State Management:** Pinia, Vuex, Redux, Zustand
-- **Database:** MySQL
-- **DevOps & Infrastructure:** Git, GitHub Actions, CI/CD, Docker, Nginx, Linux, VPS
-- **Development Tools:** Vite, Postman
-- **AI Development Tools:** GitHub Copilot, Claude Code, Codex
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,go,ts,js" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,tailwind,bootstrap" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,nginx,linux,vite,postman" />
+</p>
+
+**Languages:** TypeScript, JavaScript (ES6+), PHP, Golang  
+**Backend:** Laravel, Node.js, Express.js, REST API  
+**Frontend:** Vue.js, Nuxt.js, React.js, Next.js, Tailwind CSS, Vuetify, Bootstrap  
+**State Management:** Pinia, Vuex, Redux, Zustand  
+**Database:** MySQL  
+**DevOps & Infrastructure:** Git, GitHub Actions, CI/CD, Docker, Nginx, Linux, VPS  
+**Development Tools:** Vite, Postman  
+**AI Development Tools:** GitHub Copilot, Claude Code, Codex
 
 ### 💡 Areas of Experience
 
