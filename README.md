@@ -1,20 +1,20 @@
 # Hi there 👋, I'm Wawan Setiawan
 
-## 💻 Full Stack Web Developer | Laravel & Vue, React Specialist
+## 💻 Full Stack Web Developer | Software Engineer
 
 I'm a passionate Full Stack Developer with a strong focus on building efficient, scalable, and user-friendly web applications. I enjoy turning complex problems into simple, elegant solutions.
 
 ### 🧰 Tech Stack
-- **Backend:** PHP, Laravel, REST API  
-- **Frontend:** JavaScript, TypeScript, React.js, Vue.js, Nuxt.js, Next.js, Tailwind CSS, Vuetify, Bootstrap  
-- **Database:** MySQL, PostgreSQL  
-- **Tools:** Git, Vite, Webpack, Postman, Docker (basic)  
-- **Others:** CI/CD, Testing E2E
 
-### 🔭 Projects & Goals
-- 🔧 Currently building real-world Laravel + React applications  
-- 📚 Learning deeper into TypeScript and Next.js  
-- 🤝 Open for collaboration on web projects  
+- **Languages:** TypeScript, JavaScript (ES6+), PHP, Golang
+- **Backend:** Laravel, Node.js, Express.js, REST API
+- **Frontend:** Vue.js, Nuxt.js, React.js, Next.js, Tailwind CSS, Vuetify, Bootstrap
+- **State Management:** Pinia, Vuex, Redux, Zustand
+- **Database:** MySQL
+- **DevOps & Infrastructure:** Git, GitHub Actions, CI/CD, Docker, Nginx, Linux, VPS
+- **Development Tools:** Vite, Postman
+- **AI Development Tools:** GitHub Copilot, Claude Code, Codex
+
 
 ### 📫 How to reach me
 - LinkedIn: [linkedin.com/in/wawan-setiawan](https://www.linkedin.com/in/wawan-setiawan-84934a206/)  
